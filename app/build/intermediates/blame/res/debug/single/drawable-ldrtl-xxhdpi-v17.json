@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\AndroidStudioProjects\\coins\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\.android\\build-cache\\ffef8a2684475c971d36da4f7eb0d0d25ce356c8\\output\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\AndroidStudioProjects\\coins\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\.android\\build-cache\\ffef8a2684475c971d36da4f7eb0d0d25ce356c8\\output\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/rajiv/.android/build-cache/5bca72e89fcf59b50d1ddf015d6e745a9029ebdf/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/rajiv/.android/build-cache/5bca72e89fcf59b50d1ddf015d6e745a9029ebdf/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\AndroidStudioProjects\\coins\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\.android\\build-cache\\ffef8a2684475c971d36da4f7eb0d0d25ce356c8\\output\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/rajiv/.android/build-cache/5bca72e89fcf59b50d1ddf015d6e745a9029ebdf/output/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    }
+]

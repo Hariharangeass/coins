@@ -1,0 +1,7 @@
+#Tue Aug 15 23:06:42 IST 2017
+base.0=/home/rajiv/Desktop/AndroidStudioProjects/coins/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2d63e8b8fd3a18006d3bcf0f1dfc75920a138ce2
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/rajiv/Desktop/AndroidStudioProjects/coins/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_17f94e4e1537bb856e0256bbd6cc395cf18fbccb/classes.dex
+base.1=/home/rajiv/Desktop/AndroidStudioProjects/coins/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_17f94e4e1537bb856e0256bbd6cc395cf18fbccb
+file.0=/home/rajiv/Desktop/AndroidStudioProjects/coins/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2d63e8b8fd3a18006d3bcf0f1dfc75920a138ce2/classes.dex

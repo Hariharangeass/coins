@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\AndroidStudioProjects\\coins\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\.android\\build-cache\\ffef8a2684475c971d36da4f7eb0d0d25ce356c8\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\AndroidStudioProjects\\coins\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\.android\\build-cache\\ffef8a2684475c971d36da4f7eb0d0d25ce356c8\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/rajiv/.android/build-cache/5bca72e89fcf59b50d1ddf015d6e745a9029ebdf/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\AndroidStudioProjects\\coins\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\.android\\build-cache\\ffef8a2684475c971d36da4f7eb0d0d25ce356c8\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/rajiv/.android/build-cache/5bca72e89fcf59b50d1ddf015d6e745a9029ebdf/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/rajiv/.android/build-cache/5bca72e89fcf59b50d1ddf015d6e745a9029ebdf/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/rajiv/.android/build-cache/5bca72e89fcf59b50d1ddf015d6e745a9029ebdf/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\AndroidStudioProjects\\coins\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\.android\\build-cache\\ffef8a2684475c971d36da4f7eb0d0d25ce356c8\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/rajiv/.android/build-cache/5bca72e89fcf59b50d1ddf015d6e745a9029ebdf/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\AndroidStudioProjects\\coins\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\.android\\build-cache\\ffef8a2684475c971d36da4f7eb0d0d25ce356c8\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\AndroidStudioProjects\\coins\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\.android\\build-cache\\ffef8a2684475c971d36da4f7eb0d0d25ce356c8\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/rajiv/.android/build-cache/5bca72e89fcf59b50d1ddf015d6e745a9029ebdf/output/res/layout-v11/notification_media_action.xml"
+    }
+]

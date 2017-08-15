@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/rajiv/Desktop/AndroidStudioProjects/coins/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/rajiv/Desktop/AndroidStudioProjects/coins/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\AndroidStudioProjects\\coins\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\AndroidStudioProjects\\coins\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\AndroidStudioProjects\\coins\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "/home/rajiv/Desktop/AndroidStudioProjects/coins/C:\\Users\\Aditya\\AndroidStudioProjects\\coins\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]

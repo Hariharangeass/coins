@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="#94bc1c">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="30dp"
+        android:background="#758e27"
+        >
+
+
+        <ImageView
+            android:id="@+id/imag1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:paddingTop="7dp"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="3dp"
+            android:src="@drawable/coined" />
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:id="@+id/text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="30dp"
+            android:textColor="#FFF"
+            android:textSize="30dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/imag1"
+            android:text=" 150" />
+
+
+
+            <TextView
+                android:id="@+id/hi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:textColor="#FFFFFF"
+                android:textSize="18dp"
+                android:layout_toRightOf="@id/text1"
+                android:paddingTop="10dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="                  "
+                android:id="@+id/hello"
+                android:textColor="#FFFFFF"
+                android:textSize="15dp"
+                android:layout_marginRight="10dp"
+                android:layout_below="@id/hi"
+                android:paddingTop="3dp"
+                android:layout_toRightOf="@id/text1"/>
+
+
+
+        <Button
+            android:id="@+id/angry_btn"
+
+            android:layout_width="150dp"
+            android:layout_centerVertical="true"
+            android:layout_height="40dp"
+            android:background="@drawable/buttonshape"
+            android:layout_toRightOf="@id/hello"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="-4"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="RS 10.00"
+            android:textColor="#FFFFFF"
+            android:onClick="onecoin"
+            android:textSize="15sp" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:background="#758e27"
+        >
+
+
+        <ImageView
+            android:id="@+id/imag2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:paddingTop="7dp"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="3dp"
+            android:src="@drawable/coined2" />
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:id="@+id/text2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="30dp"
+            android:textColor="#FFF"
+            android:textSize="30dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/imag2"
+            android:text="480  " />
+
+
+
+        <TextView
+            android:id="@+id/hi2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  +7%"
+            android:textColor="#FFFFFF"
+            android:textSize="18dp"
+            android:layout_toRightOf="@id/text2"
+            android:paddingTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  EXTRA  "
+            android:id="@+id/hello2"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:layout_below="@id/hi2"
+            android:paddingTop="3dp"
+            android:layout_toRightOf="@id/text2"/>
+
+
+
+        <Button
+
+
+            android:layout_width="150dp"
+            android:layout_centerVertical="true"
+            android:layout_height="40dp"
+            android:background="@drawable/buttonshape"
+            android:layout_toRightOf="@id/hello2"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="-4"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="RS 30.00"
+            android:textColor="#FFFFFF"
+            android:onClick="twocoin"
+            android:textSize="15sp" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:background="#758e27"
+        >
+
+
+        <ImageView
+            android:id="@+id/imag3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:paddingTop="7dp"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="3dp"
+            android:src="@drawable/coined3" />
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:id="@+id/text3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="30dp"
+            android:textColor="#FFF"
+            android:textSize="30dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/imag3"
+            android:text="1100" />
+
+
+
+        <TextView
+            android:id="@+id/hi3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+23%"
+            android:textColor="#FFFFFF"
+            android:textSize="18dp"
+            android:layout_toRightOf="@id/text3"
+            android:paddingTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="EXTRA"
+            android:id="@+id/hello3"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:layout_marginRight="10dp"
+            android:layout_below="@id/hi3"
+            android:paddingTop="3dp"
+            android:layout_toRightOf="@id/text3"/>
+
+
+
+        <Button
+
+
+            android:layout_width="150dp"
+            android:layout_centerVertical="true"
+            android:layout_height="40dp"
+            android:background="@drawable/buttonshape"
+            android:layout_toRightOf="@id/hello3"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="-4"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="RS 60.00"
+            android:textColor="#FFFFFF"
+            android:onClick="threecoin"
+            android:textSize="15sp" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:background="#758e27"
+        >
+
+
+        <ImageView
+            android:id="@+id/imag4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:paddingTop="7dp"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="3dp"
+            android:src="@drawable/coined4" />
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:id="@+id/text4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="30dp"
+            android:textColor="#FFF"
+            android:textSize="30dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/imag4"
+            android:text="2400" />
+
+
+
+        <TextView
+            android:id="@+id/hi4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+35%"
+            android:textColor="#FFFFFF"
+            android:textSize="18dp"
+            android:layout_toRightOf="@id/text4"
+            android:paddingTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="EXTRA"
+            android:id="@+id/hello4"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:layout_marginRight="10dp"
+            android:layout_below="@id/hi4"
+            android:paddingTop="3dp"
+            android:layout_toRightOf="@id/text4"/>
+
+
+
+        <Button
+
+
+            android:layout_width="150dp"
+            android:layout_centerVertical="true"
+            android:layout_height="40dp"
+            android:background="@drawable/buttonshape"
+            android:layout_toRightOf="@id/hello4"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="-4"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="RS 120.00"
+            android:textColor="#FFFFFF"
+            android:onClick="fourcoin"
+            android:textSize="15sp" />
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:background="#758e27"
+        >
+
+
+        <ImageView
+            android:id="@+id/imag5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:paddingTop="7dp"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="3dp"
+            android:src="@drawable/coined5" />
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:id="@+id/text5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="30dp"
+            android:textColor="#FFF"
+            android:textSize="30dp"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/imag5"
+            android:text="5000" />
+
+
+
+        <TextView
+            android:id="@+id/hi5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="+66%"
+            android:textColor="#FFFFFF"
+            android:textSize="18dp"
+            android:layout_toRightOf="@id/text5"
+            android:paddingTop="10dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="EXTRA"
+            android:id="@+id/hello5"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"
+            android:layout_marginRight="10dp"
+            android:layout_below="@id/hi5"
+            android:paddingTop="3dp"
+            android:layout_toRightOf="@id/text5"/>
+
+
+
+        <Button
+
+
+            android:layout_width="150dp"
+            android:layout_centerVertical="true"
+            android:layout_height="40dp"
+            android:background="@drawable/buttonshape"
+            android:layout_toRightOf="@id/hello5"
+            android:shadowColor="#A8A8A8"
+            android:shadowDx="-4"
+            android:shadowDy="0"
+            android:shadowRadius="5"
+            android:text="RS 200.00"
+            android:textColor="#FFFFFF"
+            android:onClick="fivecoin"
+            android:textSize="15sp" />
+    </RelativeLayout>
+    </LinearLayout>
